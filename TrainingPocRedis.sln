@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPocRedis.ConsoleUI", "TrainingPocRedis.ConsoleUI\TrainingPocRedis.ConsoleUI.csproj", "{24058C04-21F5-483F-9390-1D7FD84945C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPocRedis.Service", "TrainingPocRedis.Service\TrainingPocRedis.Service.csproj", "{608EAC25-7AEA-456E-B5F9-EA7B3BDBAA3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPocRedis.Domain", "TrainingPocRedis.Domain\TrainingPocRedis.Domain.csproj", "{EA67271C-5566-49EA-A9CA-3092A2282046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPocRedis.Repository", "TrainingPocRedis.Repository\TrainingPocRedis.Repository.csproj", "{C32C23ED-6BEA-4356-B87E-EB5627997FF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - UI", "01 - UI", "{E2B6D3E9-CFAF-468D-BE16-0A9D22FC790F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Service", "03 - Service", "{DD80B165-CB82-4DCE-8EA9-94C380ACD42C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Repository", "05 - Repository", "{2706439E-2A11-4638-A605-E541F90D0A94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Model", "04 - Model", "{F8120F56-3ACC-4601-83A8-1BF60B6C8960}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 - Tests", "06 - Tests", "{1ECD83E0-6922-495B-BF24-931B0CF1D59A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPocRedis.Test", "TrainingPocRedis.Test\TrainingPocRedis.Test.csproj", "{AED3458A-04FC-4A32-B94A-464360F59AB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Application", "02 - Application", "{766501E0-C4F4-4CED-87B6-F3817C5AAB74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24058C04-21F5-483F-9390-1D7FD84945C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24058C04-21F5-483F-9390-1D7FD84945C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24058C04-21F5-483F-9390-1D7FD84945C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24058C04-21F5-483F-9390-1D7FD84945C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{608EAC25-7AEA-456E-B5F9-EA7B3BDBAA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608EAC25-7AEA-456E-B5F9-EA7B3BDBAA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608EAC25-7AEA-456E-B5F9-EA7B3BDBAA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608EAC25-7AEA-456E-B5F9-EA7B3BDBAA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA67271C-5566-49EA-A9CA-3092A2282046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA67271C-5566-49EA-A9CA-3092A2282046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA67271C-5566-49EA-A9CA-3092A2282046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA67271C-5566-49EA-A9CA-3092A2282046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32C23ED-6BEA-4356-B87E-EB5627997FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32C23ED-6BEA-4356-B87E-EB5627997FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32C23ED-6BEA-4356-B87E-EB5627997FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32C23ED-6BEA-4356-B87E-EB5627997FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AED3458A-04FC-4A32-B94A-464360F59AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED3458A-04FC-4A32-B94A-464360F59AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED3458A-04FC-4A32-B94A-464360F59AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED3458A-04FC-4A32-B94A-464360F59AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{24058C04-21F5-483F-9390-1D7FD84945C7} = {E2B6D3E9-CFAF-468D-BE16-0A9D22FC790F}
+		{608EAC25-7AEA-456E-B5F9-EA7B3BDBAA3E} = {DD80B165-CB82-4DCE-8EA9-94C380ACD42C}
+		{EA67271C-5566-49EA-A9CA-3092A2282046} = {F8120F56-3ACC-4601-83A8-1BF60B6C8960}
+		{C32C23ED-6BEA-4356-B87E-EB5627997FF4} = {2706439E-2A11-4638-A605-E541F90D0A94}
+		{AED3458A-04FC-4A32-B94A-464360F59AB6} = {1ECD83E0-6922-495B-BF24-931B0CF1D59A}
+	EndGlobalSection
+EndGlobal

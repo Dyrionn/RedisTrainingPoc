@@ -1,0 +1,15 @@
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\bin\Debug\TrainingPocRedis.Service.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\bin\Debug\TrainingPocRedis.Service.pdb
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\bin\Debug\RedisBoost.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\bin\Debug\RedisBoost.xml
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\obj\Debug\TrainingPocRedis.Service.csprojResolveAssemblyReference.cache
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\obj\Debug\TrainingPocRedis.Service.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\obj\Debug\TrainingPocRedis.Service.pdb
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\bin\Debug\TrainingPocRedis.Repository.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\bin\Debug\StackExchange.Redis.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\bin\Debug\TrainingPocRedis.Domain.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\bin\Debug\TrainingPocRedis.Repository.pdb
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\bin\Debug\StackExchange.Redis.xml
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Service\bin\Debug\TrainingPocRedis.Domain.pdb

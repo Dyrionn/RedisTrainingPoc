@@ -1,0 +1,6 @@
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.ConsoleUI\bin\Debug\TrainingPocRedis.ConsoleUI.exe.config
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.ConsoleUI\bin\Debug\TrainingPocRedis.ConsoleUI.exe
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.ConsoleUI\bin\Debug\TrainingPocRedis.ConsoleUI.pdb
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.ConsoleUI\obj\Debug\TrainingPocRedis.ConsoleUI.exe
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.ConsoleUI\obj\Debug\TrainingPocRedis.ConsoleUI.pdb
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.ConsoleUI\obj\Debug\TrainingPocRedis.ConsoleUI.csprojResolveAssemblyReference.cache

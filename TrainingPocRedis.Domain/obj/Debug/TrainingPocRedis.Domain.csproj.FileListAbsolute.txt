@@ -1,0 +1,5 @@
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Domain\bin\Debug\TrainingPocRedis.Domain.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Domain\bin\Debug\TrainingPocRedis.Domain.pdb
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Domain\obj\Debug\TrainingPocRedis.Domain.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Domain\obj\Debug\TrainingPocRedis.Domain.pdb
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Domain\obj\Debug\TrainingPocRedis.Domain.csprojResolveAssemblyReference.cache

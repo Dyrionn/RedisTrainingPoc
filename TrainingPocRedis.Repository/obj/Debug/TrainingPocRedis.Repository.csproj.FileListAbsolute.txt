@@ -1,0 +1,13 @@
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Repository\obj\Debug\TrainingPocRedis.Repository.csprojResolveAssemblyReference.cache
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Repository\bin\Debug\TrainingPocRedis.Repository.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Repository\bin\Debug\TrainingPocRedis.Repository.pdb
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Repository\bin\Debug\RedisBoost.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Repository\bin\Debug\StackExchange.Redis.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Repository\bin\Debug\TrainingPocRedis.Domain.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Repository\bin\Debug\TrainingPocRedis.Domain.pdb
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Repository\bin\Debug\RedisBoost.xml
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Repository\bin\Debug\StackExchange.Redis.xml
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Repository\obj\Debug\TrainingPocRedis.Repository.dll
+C:\Users\apianor\Documents\Visual Studio 2017\Projects\TrainingPocRedis\TrainingPocRedis.Repository\obj\Debug\TrainingPocRedis.Repository.pdb

@@ -32,7 +32,6 @@ namespace TrainingPocRedis.Repository
             databaseConfig.ConnectTimeout = 100000;
             databaseConfig.SyncTimeout = 100000;
 
-
             redis = ConnectionMultiplexer.Connect(databaseConfig); //Placeholder
             redisDataCache = redis.GetDatabase();
 
@@ -48,12 +47,15 @@ namespace TrainingPocRedis.Repository
         {
             // Reference for this "TEST" = https://stackoverflow.com/questions/4273743/static-implicit-operator
             RedisValue valueToInsert = JsonConvert.SerializeObject(entity);
+
+
+            redisDataCache.StringSet(key, valueToInsert);
+
             return redisDataCache.StringSet(key, valueToInsert);
 
         }
 
-        public bool AddWithExpiration(string key, int expireTime, T entity)
-        {
+        public bool AddWithExpiration(string key, int expireTime, T entity){
             //Same reference as "ADD"
             RedisValue valueToInsert = JsonConvert.SerializeObject(entity);
             return redisDataCache.StringSet(key, valueToInsert, TimeSpan.FromSeconds(expireTime));
@@ -64,8 +66,7 @@ namespace TrainingPocRedis.Repository
             return redisDataCache.KeyDelete(key);
         }
 
-        public Object ListById(string key)
-        {
+        public Object ListById(string key){
 
             RedisValue valueToReturn = redisDataCache.StringGet(key);
 

@@ -8,8 +8,8 @@ namespace TrainingPocRedis.Service.Contract
 {
     public interface IChannelService
     {
-        void PublhishChannel();
-        void StopChannel();
+        void PublhishOnChannel(string channelName, string message);
+        bool SubscribeChannel(string channelName);
         
     }
 }
